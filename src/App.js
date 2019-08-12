@@ -65,7 +65,7 @@ class App extends Component {
         </p> */}
         {this.state.stripeToken ? (
           <p className="App-intro">
-            {"Got Stripe token ID: " +
+            {"sk_test_GhzzixB7ipAuVUxXFKZ4TGd900FjvAcQjv" +
               this.state.stripeToken.id +
               ". Continue payment process in the server."}
           </p>
