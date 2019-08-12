@@ -1,0 +1,23 @@
+{
+  "name": "reactstripe",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "Integrating [Stripe's Checkout](https://stripe.com/docs/checkout/tutorial) with **custom pay button** to your react app is actually pretty simple. You don't need to install third party [package](https://github.com/azmenak/react-stripe-checkout). This project (bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app)) shows how to do it with a few lines of codes.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
